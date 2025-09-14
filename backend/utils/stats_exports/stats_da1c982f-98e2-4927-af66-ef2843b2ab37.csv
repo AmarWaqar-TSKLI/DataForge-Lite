@@ -1,0 +1,77 @@
+stat,value
+describe.industry_code_nzsioc.count,43610
+describe.industry_code_nzsioc.unique,139
+describe.industry_code_nzsioc.top,CC
+describe.industry_code_nzsioc.freq,394
+describe.industry_name_nzsioc.count,43610
+describe.industry_name_nzsioc.unique,119
+describe.industry_name_nzsioc.top,"Public Order, Safety and Regulatory Services"
+describe.industry_name_nzsioc.freq,738
+describe.units.count,43610
+describe.units.unique,3
+describe.units.top,Dollars (millions)
+describe.units.freq,35237
+describe.variable_category.count,43610
+describe.variable_category.unique,3
+describe.variable_category.top,Financial performance
+describe.variable_category.freq,21664
+describe.value.count,43610
+describe.value.unique,14801
+describe.value.top,C
+describe.value.freq,198
+describe.industry_code_anzsic06.count,43610
+describe.industry_code_anzsic06.unique,119
+describe.industry_code_anzsic06.top,ANZSIC06 groups C121 and C122
+describe.industry_code_anzsic06.freq,730
+nulls.industry_code_nzsioc,0
+nulls.industry_name_nzsioc,0
+nulls.units,0
+nulls.variable_category,0
+nulls.value,0
+nulls.industry_code_anzsic06,0
+value_counts.industry_code_nzsioc.CC,394
+value_counts.industry_code_nzsioc.ZZ11,383
+value_counts.industry_code_nzsioc.FF,372
+value_counts.industry_code_nzsioc.FF112,371
+value_counts.industry_code_nzsioc.FF111,366
+value_counts.industry_code_nzsioc.CC151,365
+value_counts.industry_code_nzsioc.CC15,365
+value_counts.industry_code_nzsioc.CC82,364
+value_counts.industry_code_nzsioc.GH,364
+value_counts.industry_code_nzsioc.LL,361
+"value_counts.industry_name_nzsioc.Public Order, Safety and Regulatory Services",738
+value_counts.industry_name_nzsioc.Beverage and Tobacco Product Manufacturing,730
+value_counts.industry_name_nzsioc.Wood Product Manufacturing,712
+value_counts.industry_name_nzsioc.Polymer Product and Rubber Product Manufacturing,692
+value_counts.industry_name_nzsioc.Construction Services,690
+value_counts.industry_name_nzsioc.Fabricated Metal Product Manufacturing,686
+value_counts.industry_name_nzsioc.Non-Metallic Mineral Product Manufacturing,678
+value_counts.industry_name_nzsioc.Rental and Hiring Services (except Real Estate),672
+value_counts.industry_name_nzsioc.Heavy and Civil Engineering Construction,662
+value_counts.industry_name_nzsioc.Transport Equipment Manufacturing,658
+value_counts.units.Dollars (millions),35237
+value_counts.units.Percentage,5360
+value_counts.units.Dollars,3013
+value_counts.variable_category.Financial performance,21664
+value_counts.variable_category.Financial position,13573
+value_counts.variable_category.Financial ratios,8373
+value_counts.value.C,198
+value_counts.value.9,185
+value_counts.value.10,170
+value_counts.value.7,170
+value_counts.value.11,170
+value_counts.value.8,169
+value_counts.value.5,163
+value_counts.value.14,159
+value_counts.value.12,156
+value_counts.value.3,153
+value_counts.industry_code_anzsic06.ANZSIC06 groups C121 and C122,730
+value_counts.industry_code_anzsic06.ANZSIC06 groups C141 and C149,712
+value_counts.industry_code_anzsic06.ANZSIC06 groups C191 and C192,692
+"value_counts.industry_code_anzsic06.ANZSIC06 groups E321, E322, E323, E324, and E329",690
+"value_counts.industry_code_anzsic06.ANZSIC06 groups C221, C222, C223, C224, and C229",686
+"value_counts.industry_code_anzsic06.ANZSIC06 groups C201, C202, C203, and C209",678
+value_counts.industry_code_anzsic06.ANZSIC06 group E310,662
+value_counts.industry_code_anzsic06.ANZSIC06 groups C231 and C239,658
+value_counts.industry_code_anzsic06.ANZSIC06 group C170,634
+value_counts.industry_code_anzsic06.ANZSIC06 group A016,628
