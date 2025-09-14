@@ -25,7 +25,6 @@ export const DataProvider = ({ children }) => {
   const [columns, setColumns] = useState(() => loadState().columns || []);
   const [preview, setPreview] = useState(() => loadState().preview || []);
 
-  // Persist to localStorage on change
   useEffect(() => {
     saveState({ datasetId, columns, preview });
   }, [datasetId, columns, preview]);
