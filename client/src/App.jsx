@@ -12,11 +12,12 @@ const App = () => {
   return (
     <DataProvider>
       <Router>
-        <div className="bg-background min-h-screen text-text">
+        <div className="bg-background min-h-screen text-text container">
           <Navbar />
           <main className="max-w-6xl mx-auto px-4 py-6">
             <Routes>
               <Route path="/" element={<Home />} />
+              
               <Route path="/preview" element={<Preview />} />
               <Route path="/transform" element={<Transform />} />
               <Route path="/query" element={<Query />} />
